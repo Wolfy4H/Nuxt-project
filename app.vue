@@ -11,6 +11,7 @@
           <li><NuxtLink to="/" class="font-bold text-2xl hover:text-gray-400">Home</NuxtLink></li>
           <li><NuxtLink to="/about" class="font-bold text-2xl hover:text-gray-400">About</NuxtLink></li>
           <li><NuxtLink to="/contact" class="font-bold text-2xl hover:text-gray-400">Contact</NuxtLink></li>
+          <li><NuxtLink to="/contact" class="font-bold text-2xl hover:text-gray-400">Products</NuxtLink></li>
         </ul>
 
         <!-- Hamburger-menu knop (zichtbaar op kleine schermen) -->
